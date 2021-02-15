@@ -1,0 +1,80 @@
+body {
+    background: linear-gradient( #a8edea 0%, #fed6e3 );
+
+}
+
+.border {
+    border: 1px solid;
+    padding: 50px;
+    margin: 25px auto;
+    border-radius: 10px;
+    max-width: 1200px;
+    background-image: url(./seoul.jpg);
+    background-position: top;
+}
+
+h1 {
+  font-size: 55px;
+  text-align: center;
+  color: #f7f7e8;
+}
+
+.form-example{
+    text-align: center;
+}
+.col-4{
+    background-color: #c7cfb7;
+}
+.col-1{
+    color: #557174;
+    background-color: #9dad7f;
+
+}
+.col-1:hover{
+    color: #9dad7f;
+    background-color: #557174;
+}
+.col-2{
+    color: #557174;
+    background-color: #9dad7f;
+
+}
+.col-2:hover{
+    color: #9dad7f;
+    background-color: #557174;
+}
+
+li {
+  list-style: none;
+  color: #f7f7e8;
+}
+
+.front {
+  display: block;
+  font-family: "Google Sans", arial, sans-serif;
+  font-size: 22px;
+  font-weight: 400;
+  line-height: 26px;
+  text-align: right;
+  width: 326px;
+  float: right;
+}
+
+.temperature {
+  display: inline;
+  font-size: 25px;
+  color: #f7f7e8;
+}
+i {
+  font-size: 50px;
+  color: #f7f7e8;
+}
+a{
+    color: #f7f7e8;
+    text-decoration: none;
+    font-size: 25px;
+}
+.col-6{
+    font-size: 25px;
+    color: #f7f7e8 ;
+}
